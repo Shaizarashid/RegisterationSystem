@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|d:\\study\\sem 6\\se\\project\\seproject\\seproject\\registerteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\registerteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\registerteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\registerteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\facultymentormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\facultymentormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\updateteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\updateteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\sponserpackageselection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\sponserpackageselection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\generatereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\generatereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\sponserpackageselection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\sponserpackageselection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\updateteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\updateteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\deleteevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\deleteevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\studentexecutivemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\studentexecutivemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\manageteams.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\manageteams.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\manageteams.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\manageteams.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\facultymentormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\facultymentormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacultyMentorManagement.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\FacultyMentorManagement.aspx",
+              "RelativeDocumentMoniker": "SEProject\\FacultyMentorManagement.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\FacultyMentorManagement.aspx",
+              "RelativeToolTip": "SEProject\\FacultyMentorManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T11:30:10.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\Admin.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Admin.aspx.cs",
+              "RelativeToolTip": "SEProject\\Admin.aspx.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwDsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:28:53.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\Login.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Login.aspx.cs",
+              "RelativeToolTip": "SEProject\\Login.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:31:10.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterTeam.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\RegisterTeam.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx.cs",
+              "RelativeToolTip": "SEProject\\RegisterTeam.aspx.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAALIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:32:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterTeam.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx",
+              "RelativeDocumentMoniker": "SEProject\\RegisterTeam.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx",
+              "RelativeToolTip": "SEProject\\RegisterTeam.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T11:32:16.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTeam.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UpdateTeam.aspx",
+              "RelativeDocumentMoniker": "SEProject\\UpdateTeam.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UpdateTeam.aspx",
+              "RelativeToolTip": "SEProject\\UpdateTeam.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T17:49:13.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SponserPackageSelection.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\SponserPackageSelection.aspx",
+              "RelativeDocumentMoniker": "SEProject\\SponserPackageSelection.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\SponserPackageSelection.aspx",
+              "RelativeToolTip": "SEProject\\SponserPackageSelection.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T11:33:05.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDashboard.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UserDashboard.aspx",
+              "RelativeDocumentMoniker": "SEProject\\UserDashboard.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UserDashboard.aspx",
+              "RelativeToolTip": "SEProject\\UserDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T17:37:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenerateReport.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\GenerateReport.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\GenerateReport.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\GenerateReport.aspx.cs",
+              "RelativeToolTip": "SEProject\\GenerateReport.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:30:52.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UserDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\UserDashboard.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UserDashboard.aspx.cs",
+              "RelativeToolTip": "SEProject\\UserDashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:54:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SponserPackageSelection.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\SponserPackageSelection.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\SponserPackageSelection.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\SponserPackageSelection.aspx.cs",
+              "RelativeToolTip": "SEProject\\SponserPackageSelection.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:33:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\Signup.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Signup.aspx.cs",
+              "RelativeToolTip": "SEProject\\Signup.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:32:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Feedback.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Feedback.aspx",
+              "RelativeDocumentMoniker": "SEProject\\Feedback.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Feedback.aspx",
+              "RelativeToolTip": "SEProject\\Feedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T18:15:54.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Feedback.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Feedback.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\Feedback.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Feedback.aspx.cs",
+              "RelativeToolTip": "SEProject\\Feedback.aspx.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowEQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:22:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Students.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Students.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\Students.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Students.aspx.cs",
+              "RelativeToolTip": "SEProject\\Students.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA7wAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:34:23.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateTeam.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UpdateTeam.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\UpdateTeam.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UpdateTeam.aspx.cs",
+              "RelativeToolTip": "SEProject\\UpdateTeam.aspx.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAAACUBAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:34:45.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddEvent.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\AddEvent.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\AddEvent.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\AddEvent.aspx.cs",
+              "RelativeToolTip": "SEProject\\AddEvent.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:28:13.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\AdminDashboard.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "SEProject\\AdminDashboard.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAtwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:29:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteEvent.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\DeleteEvent.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\DeleteEvent.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\DeleteEvent.aspx.cs",
+              "RelativeToolTip": "SEProject\\DeleteEvent.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAtwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:29:43.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditProfile.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\EditProfile.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\EditProfile.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\EditProfile.aspx.cs",
+              "RelativeToolTip": "SEProject\\EditProfile.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:29:57.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentExecutiveManagement.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\StudentExecutiveManagement.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\StudentExecutiveManagement.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\StudentExecutiveManagement.aspx.cs",
+              "RelativeToolTip": "SEProject\\StudentExecutiveManagement.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:33:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageTeams.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\ManageTeams.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\ManageTeams.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\ManageTeams.aspx.cs",
+              "RelativeToolTip": "SEProject\\ManageTeams.aspx.cs",
+              "ViewState": "AQIAAHABAAAAAAAAAAAAAGMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:31:24.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageTeams.aspx",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\ManageTeams.aspx",
+              "RelativeDocumentMoniker": "SEProject\\ManageTeams.aspx",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\ManageTeams.aspx",
+              "RelativeToolTip": "SEProject\\ManageTeams.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-03T11:54:25.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FacultyMentorManagement.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\FacultyMentorManagement.aspx.cs",
+              "RelativeDocumentMoniker": "SEProject\\FacultyMentorManagement.aspx.cs",
+              "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\FacultyMentorManagement.aspx.cs",
+              "RelativeToolTip": "SEProject\\FacultyMentorManagement.aspx.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAApwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:30:10.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
