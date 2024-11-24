@@ -3,100 +3,100 @@
   "WorkspaceRootPath": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|d:\\study\\sem 6\\se\\project\\seproject\\seproject\\registerteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\registerteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SEProject\\RegisterTeam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\registerteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\registerteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\facultymentormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\facultymentormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\facultymentormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\facultymentormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\registerteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\registerteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\updateteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\updateteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\updateteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\updateteam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\sponserpackageselection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\sponserpackageselection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\sponserpackageselection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\sponserpackageselection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\generatereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\generatereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\generatereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\generatereport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\sponserpackageselection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\sponserpackageselection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\userdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\sponserpackageselection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\sponserpackageselection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\feedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\updateteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\updateteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\updateteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\updateteam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\deleteevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\deleteevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\deleteevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\deleteevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\editprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\studentexecutivemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\studentexecutivemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\studentexecutivemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\studentexecutivemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\manageteams.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\manageteams.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\manageteams.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\manageteams.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\manageteams.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\manageteams.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\manageteams.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\manageteams.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\facultymentormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2784F72-C1CE-4E60-B49B-B7373085AC9F}|D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject|solutionrelative:seproject\\facultymentormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\sem 6\\SE\\Project\\SEProject\\seproject\\facultymentormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:seproject\\facultymentormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,19 +110,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FacultyMentorManagement.aspx",
               "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\FacultyMentorManagement.aspx",
               "RelativeDocumentMoniker": "SEProject\\FacultyMentorManagement.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\FacultyMentorManagement.aspx",
               "RelativeToolTip": "SEProject\\FacultyMentorManagement.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T11:30:10.636Z"
+              "WhenOpened": "2024-05-03T11:30:10.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Admin.aspx.cs",
               "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Admin.aspx.cs",
               "RelativeDocumentMoniker": "SEProject\\Admin.aspx.cs",
@@ -130,11 +130,12 @@
               "RelativeToolTip": "SEProject\\Admin.aspx.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAtwDsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:28:53.505Z"
+              "WhenOpened": "2024-05-03T11:28:53.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Login.aspx.cs",
               "RelativeDocumentMoniker": "SEProject\\Login.aspx.cs",
@@ -142,11 +143,12 @@
               "RelativeToolTip": "SEProject\\Login.aspx.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAswEUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:31:10.644Z"
+              "WhenOpened": "2024-05-03T11:31:10.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RegisterTeam.aspx.cs",
               "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx.cs",
               "RelativeDocumentMoniker": "SEProject\\RegisterTeam.aspx.cs",
@@ -154,7 +156,8 @@
               "RelativeToolTip": "SEProject\\RegisterTeam.aspx.cs",
               "ViewState": "AQIAALsAAAAAAAAAAAAAALIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:32:16.688Z"
+              "WhenOpened": "2024-05-03T11:32:16.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -164,7 +167,7 @@
               "RelativeDocumentMoniker": "SEProject\\RegisterTeam.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\RegisterTeam.aspx",
               "RelativeToolTip": "SEProject\\RegisterTeam.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-05-03T11:32:16.61Z",
               "EditorCaption": ""
@@ -177,9 +180,9 @@
               "RelativeDocumentMoniker": "SEProject\\UpdateTeam.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UpdateTeam.aspx",
               "RelativeToolTip": "SEProject\\UpdateTeam.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T17:49:13.778Z"
+              "WhenOpened": "2024-05-03T17:49:13.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -189,9 +192,9 @@
               "RelativeDocumentMoniker": "SEProject\\SponserPackageSelection.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\SponserPackageSelection.aspx",
               "RelativeToolTip": "SEProject\\SponserPackageSelection.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T11:33:05.504Z"
+              "WhenOpened": "2024-05-03T11:33:05.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -201,9 +204,9 @@
               "RelativeDocumentMoniker": "SEProject\\UserDashboard.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UserDashboard.aspx",
               "RelativeToolTip": "SEProject\\UserDashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T17:37:49.713Z"
+              "WhenOpened": "2024-05-03T17:37:49.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,11 +218,12 @@
               "RelativeToolTip": "SEProject\\GenerateReport.aspx.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAAAEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:30:52.243Z"
+              "WhenOpened": "2024-05-03T11:30:52.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "UserDashboard.aspx.cs",
               "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\UserDashboard.aspx.cs",
               "RelativeDocumentMoniker": "SEProject\\UserDashboard.aspx.cs",
@@ -227,11 +231,12 @@
               "RelativeToolTip": "SEProject\\UserDashboard.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:54:25.613Z"
+              "WhenOpened": "2024-05-03T11:54:25.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SponserPackageSelection.aspx.cs",
               "DocumentMoniker": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\SponserPackageSelection.aspx.cs",
               "RelativeDocumentMoniker": "SEProject\\SponserPackageSelection.aspx.cs",
@@ -239,7 +244,8 @@
               "RelativeToolTip": "SEProject\\SponserPackageSelection.aspx.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAAADAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:33:05.576Z"
+              "WhenOpened": "2024-05-03T11:33:05.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,7 +257,8 @@
               "RelativeToolTip": "SEProject\\Signup.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:32:45.636Z"
+              "WhenOpened": "2024-05-03T11:32:45.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -261,9 +268,9 @@
               "RelativeDocumentMoniker": "SEProject\\Feedback.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\Feedback.aspx",
               "RelativeToolTip": "SEProject\\Feedback.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T18:15:54.386Z"
+              "WhenOpened": "2024-05-03T18:15:54.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -275,7 +282,8 @@
               "RelativeToolTip": "SEProject\\Feedback.aspx.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAowEQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:22:15.115Z"
+              "WhenOpened": "2024-05-03T18:22:15.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -287,7 +295,8 @@
               "RelativeToolTip": "SEProject\\Students.aspx.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAIA7wAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:34:23.949Z"
+              "WhenOpened": "2024-05-03T11:34:23.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -299,7 +308,8 @@
               "RelativeToolTip": "SEProject\\UpdateTeam.aspx.cs",
               "ViewState": "AQIAABUBAAAAAAAAAAAAACUBAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:34:45.616Z"
+              "WhenOpened": "2024-05-03T11:34:45.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -311,7 +321,8 @@
               "RelativeToolTip": "SEProject\\AddEvent.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:28:13.076Z"
+              "WhenOpened": "2024-05-03T11:28:13.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -323,7 +334,8 @@
               "RelativeToolTip": "SEProject\\AdminDashboard.aspx.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAtwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:29:19.651Z"
+              "WhenOpened": "2024-05-03T11:29:19.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -335,7 +347,8 @@
               "RelativeToolTip": "SEProject\\DeleteEvent.aspx.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAtwCIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:29:43.616Z"
+              "WhenOpened": "2024-05-03T11:29:43.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -347,7 +360,8 @@
               "RelativeToolTip": "SEProject\\EditProfile.aspx.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAtwBwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:29:57.681Z"
+              "WhenOpened": "2024-05-03T11:29:57.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -359,7 +373,8 @@
               "RelativeToolTip": "SEProject\\StudentExecutiveManagement.aspx.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:33:38.955Z"
+              "WhenOpened": "2024-05-03T11:33:38.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -371,7 +386,8 @@
               "RelativeToolTip": "SEProject\\ManageTeams.aspx.cs",
               "ViewState": "AQIAAHABAAAAAAAAAAAAAGMBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:31:24.223Z"
+              "WhenOpened": "2024-05-03T11:31:24.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -381,9 +397,9 @@
               "RelativeDocumentMoniker": "SEProject\\ManageTeams.aspx",
               "ToolTip": "D:\\Study\\sem 6\\SE\\Project\\SEProject\\SEProject\\ManageTeams.aspx",
               "RelativeToolTip": "SEProject\\ManageTeams.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-03T11:54:25.738Z"
+              "WhenOpened": "2024-05-03T11:54:25.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -395,7 +411,8 @@
               "RelativeToolTip": "SEProject\\FacultyMentorManagement.aspx.cs",
               "ViewState": "AQIAAIwAAAAAAAAAAAApwJwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:30:10.707Z"
+              "WhenOpened": "2024-05-03T11:30:10.707Z",
+              "EditorCaption": ""
             }
           ]
         }
